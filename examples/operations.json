@@ -1,0 +1,4666 @@
+{
+  "residents": [
+    {
+      "id": "older0",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": "2026-10-01",
+      "consent": false,
+      "contact": null,
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older1",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token1",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older2",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token2",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older3",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token3",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older4",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token4",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older5",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token5",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older6",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token6",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older7",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token7",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older8",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token8",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older9",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token9",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older10",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token10",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older11",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token11",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older12",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": "2026-10-01",
+      "consent": true,
+      "contact": "token12",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older13",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token13",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older14",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token14",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older15",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token15",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older16",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token16",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older17",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": false,
+      "contact": null,
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older18",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token18",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older19",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token19",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older20",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token20",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older21",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token21",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older22",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token22",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older23",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token23",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older24",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": "2026-10-01",
+      "consent": true,
+      "contact": "token24",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older25",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token25",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older26",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token26",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older27",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token27",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older28",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token28",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older29",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token29",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older30",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token30",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older31",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token31",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older32",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token32",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older33",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token33",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older34",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": false,
+      "contact": null,
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older35",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token35",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older36",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": "2026-10-01",
+      "consent": true,
+      "contact": "token36",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older37",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token37",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older38",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token38",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older39",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token39",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older40",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token40",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older41",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token41",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older42",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token42",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older43",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token43",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older44",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token44",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older45",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token45",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older46",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token46",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older47",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token47",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older48",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": "2026-10-01",
+      "consent": true,
+      "contact": "token48",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older49",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token49",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older50",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token50",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older51",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": false,
+      "contact": null,
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older52",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token52",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older53",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token53",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older54",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token54",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older55",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token55",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older56",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token56",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older57",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token57",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older58",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token58",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older59",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token59",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older60",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": "2026-10-01",
+      "consent": true,
+      "contact": "token60",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older61",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token61",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older62",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token62",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older63",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token63",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older64",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token64",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older65",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token65",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older66",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token66",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older67",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token67",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older68",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": false,
+      "contact": null,
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older69",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token69",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older70",
+      "site": "east",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token70",
+      "contact_gap_days": 7
+    },
+    {
+      "id": "older71",
+      "site": "west",
+      "entered": "2026-01-01",
+      "left": null,
+      "consent": true,
+      "contact": "token71",
+      "contact_gap_days": 7
+    }
+  ],
+  "responses": [
+    {
+      "id": "answer0-5",
+      "resident": "older0",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer0-6",
+      "resident": "older0",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer0-8",
+      "resident": "older0",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        4,
+        4,
+        null
+      ]
+    },
+    {
+      "id": "answer1-5",
+      "resident": "older1",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "answer1-7",
+      "resident": "older1",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer1-8",
+      "resident": "older1",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer1-10",
+      "resident": "older1",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer2-6",
+      "resident": "older2",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer2-8",
+      "resident": "older2",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer2-9",
+      "resident": "older2",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer2-10",
+      "resident": "older2",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer3-5",
+      "resident": "older3",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer3-6",
+      "resident": "older3",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer3-7",
+      "resident": "older3",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer3-9",
+      "resident": "older3",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer3-10",
+      "resident": "older3",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "answer4-5",
+      "resident": "older4",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer4-6",
+      "resident": "older4",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "answer4-7",
+      "resident": "older4",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "answer4-8",
+      "resident": "older4",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer4-9",
+      "resident": "older4",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        2,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer4-10",
+      "resident": "older4",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        2,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer5-5",
+      "resident": "older5",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer5-6",
+      "resident": "older5",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer5-7",
+      "resident": "older5",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer5-8",
+      "resident": "older5",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer6-5",
+      "resident": "older6",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer6-6",
+      "resident": "older6",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer6-8",
+      "resident": "older6",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer6-9",
+      "resident": "older6",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer6-10",
+      "resident": "older6",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer7-5",
+      "resident": "older7",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer7-6",
+      "resident": "older7",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        null
+      ]
+    },
+    {
+      "id": "answer7-7",
+      "resident": "older7",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        null
+      ]
+    },
+    {
+      "id": "answer7-8",
+      "resident": "older7",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        null
+      ]
+    },
+    {
+      "id": "answer7-9",
+      "resident": "older7",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer8-5",
+      "resident": "older8",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer8-6",
+      "resident": "older8",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer8-7",
+      "resident": "older8",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer8-8",
+      "resident": "older8",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer8-9",
+      "resident": "older8",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        5,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer8-10",
+      "resident": "older8",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer9-5",
+      "resident": "older9",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "answer9-6",
+      "resident": "older9",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer9-7",
+      "resident": "older9",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer9-8",
+      "resident": "older9",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer9-9",
+      "resident": "older9",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer9-10",
+      "resident": "older9",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer10-5",
+      "resident": "older10",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer10-6",
+      "resident": "older10",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer10-7",
+      "resident": "older10",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer10-8",
+      "resident": "older10",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer11-5",
+      "resident": "older11",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer11-6",
+      "resident": "older11",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "answer11-7",
+      "resident": "older11",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer11-8",
+      "resident": "older11",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "answer11-9",
+      "resident": "older11",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer11-10",
+      "resident": "older11",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer12-5",
+      "resident": "older12",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer12-6",
+      "resident": "older12",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer12-7",
+      "resident": "older12",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer12-8",
+      "resident": "older12",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        1,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer12-9",
+      "resident": "older12",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer12-10",
+      "resident": "older12",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "answer13-5",
+      "resident": "older13",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer13-6",
+      "resident": "older13",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer13-7",
+      "resident": "older13",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer13-8",
+      "resident": "older13",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer13-9",
+      "resident": "older13",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer13-10",
+      "resident": "older13",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer14-5",
+      "resident": "older14",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        null
+      ]
+    },
+    {
+      "id": "answer14-6",
+      "resident": "older14",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer14-7",
+      "resident": "older14",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        null
+      ]
+    },
+    {
+      "id": "answer14-8",
+      "resident": "older14",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer14-10",
+      "resident": "older14",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        5,
+        4,
+        null
+      ]
+    },
+    {
+      "id": "answer15-5",
+      "resident": "older15",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer15-6",
+      "resident": "older15",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "answer15-7",
+      "resident": "older15",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer15-8",
+      "resident": "older15",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer16-6",
+      "resident": "older16",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer16-7",
+      "resident": "older16",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer16-8",
+      "resident": "older16",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer16-9",
+      "resident": "older16",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer16-10",
+      "resident": "older16",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        1,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "answer17-5",
+      "resident": "older17",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer17-6",
+      "resident": "older17",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer17-7",
+      "resident": "older17",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer17-8",
+      "resident": "older17",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer17-10",
+      "resident": "older17",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "answer18-5",
+      "resident": "older18",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer18-6",
+      "resident": "older18",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer18-7",
+      "resident": "older18",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer18-8",
+      "resident": "older18",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer18-9",
+      "resident": "older18",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer18-10",
+      "resident": "older18",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer19-5",
+      "resident": "older19",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer19-6",
+      "resident": "older19",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer19-7",
+      "resident": "older19",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer19-8",
+      "resident": "older19",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer19-9",
+      "resident": "older19",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer19-10",
+      "resident": "older19",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        1,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "answer20-5",
+      "resident": "older20",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "answer20-6",
+      "resident": "older20",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer20-7",
+      "resident": "older20",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer20-8",
+      "resident": "older20",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        2,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer21-5",
+      "resident": "older21",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer21-6",
+      "resident": "older21",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer21-7",
+      "resident": "older21",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer21-8",
+      "resident": "older21",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer21-9",
+      "resident": "older21",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        null
+      ]
+    },
+    {
+      "id": "answer21-10",
+      "resident": "older21",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        null
+      ]
+    },
+    {
+      "id": "answer22-5",
+      "resident": "older22",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "answer22-6",
+      "resident": "older22",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer22-8",
+      "resident": "older22",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer23-5",
+      "resident": "older23",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer23-7",
+      "resident": "older23",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "answer23-8",
+      "resident": "older23",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer23-10",
+      "resident": "older23",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer24-5",
+      "resident": "older24",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer24-6",
+      "resident": "older24",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer24-7",
+      "resident": "older24",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer24-8",
+      "resident": "older24",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer24-9",
+      "resident": "older24",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer24-10",
+      "resident": "older24",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer25-5",
+      "resident": "older25",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "answer25-6",
+      "resident": "older25",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer25-7",
+      "resident": "older25",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer25-8",
+      "resident": "older25",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer26-5",
+      "resident": "older26",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer26-6",
+      "resident": "older26",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer26-7",
+      "resident": "older26",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer26-9",
+      "resident": "older26",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "answer26-10",
+      "resident": "older26",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer27-5",
+      "resident": "older27",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer27-6",
+      "resident": "older27",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer27-7",
+      "resident": "older27",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer27-8",
+      "resident": "older27",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer27-9",
+      "resident": "older27",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer27-10",
+      "resident": "older27",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer28-5",
+      "resident": "older28",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer28-6",
+      "resident": "older28",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        null
+      ]
+    },
+    {
+      "id": "answer28-7",
+      "resident": "older28",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        null
+      ]
+    },
+    {
+      "id": "answer28-8",
+      "resident": "older28",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        5,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer28-9",
+      "resident": "older28",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        2,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer28-10",
+      "resident": "older28",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        3,
+        4,
+        null
+      ]
+    },
+    {
+      "id": "answer29-5",
+      "resident": "older29",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer29-6",
+      "resident": "older29",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer29-7",
+      "resident": "older29",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer29-8",
+      "resident": "older29",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer29-9",
+      "resident": "older29",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "answer29-10",
+      "resident": "older29",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer30-5",
+      "resident": "older30",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer30-6",
+      "resident": "older30",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer30-7",
+      "resident": "older30",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer30-8",
+      "resident": "older30",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer31-5",
+      "resident": "older31",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer31-6",
+      "resident": "older31",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer31-7",
+      "resident": "older31",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer31-8",
+      "resident": "older31",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer31-9",
+      "resident": "older31",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer31-10",
+      "resident": "older31",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer32-5",
+      "resident": "older32",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer32-6",
+      "resident": "older32",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer32-7",
+      "resident": "older32",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "answer32-8",
+      "resident": "older32",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer33-5",
+      "resident": "older33",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer33-6",
+      "resident": "older33",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer33-7",
+      "resident": "older33",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer33-8",
+      "resident": "older33",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer33-10",
+      "resident": "older33",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer34-5",
+      "resident": "older34",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer34-6",
+      "resident": "older34",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer34-7",
+      "resident": "older34",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer34-8",
+      "resident": "older34",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "answer34-10",
+      "resident": "older34",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer35-5",
+      "resident": "older35",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        null
+      ]
+    },
+    {
+      "id": "answer35-6",
+      "resident": "older35",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer35-8",
+      "resident": "older35",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer36-6",
+      "resident": "older36",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer36-7",
+      "resident": "older36",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer36-8",
+      "resident": "older36",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer36-9",
+      "resident": "older36",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer36-10",
+      "resident": "older36",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        5,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer37-5",
+      "resident": "older37",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer37-6",
+      "resident": "older37",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer37-7",
+      "resident": "older37",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer37-8",
+      "resident": "older37",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer37-9",
+      "resident": "older37",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "answer37-10",
+      "resident": "older37",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer38-5",
+      "resident": "older38",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer38-6",
+      "resident": "older38",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "answer38-7",
+      "resident": "older38",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer38-8",
+      "resident": "older38",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer38-9",
+      "resident": "older38",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer38-10",
+      "resident": "older38",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer39-5",
+      "resident": "older39",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "answer39-7",
+      "resident": "older39",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer39-8",
+      "resident": "older39",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer39-9",
+      "resident": "older39",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer39-10",
+      "resident": "older39",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer40-5",
+      "resident": "older40",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer40-6",
+      "resident": "older40",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer40-7",
+      "resident": "older40",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer40-8",
+      "resident": "older40",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        2,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer41-5",
+      "resident": "older41",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer41-6",
+      "resident": "older41",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer41-8",
+      "resident": "older41",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer41-9",
+      "resident": "older41",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer41-10",
+      "resident": "older41",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer42-6",
+      "resident": "older42",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer42-7",
+      "resident": "older42",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        null
+      ]
+    },
+    {
+      "id": "answer42-8",
+      "resident": "older42",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        2,
+        5,
+        null
+      ]
+    },
+    {
+      "id": "answer42-9",
+      "resident": "older42",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer43-5",
+      "resident": "older43",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer43-6",
+      "resident": "older43",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer43-7",
+      "resident": "older43",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "answer43-8",
+      "resident": "older43",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "answer43-9",
+      "resident": "older43",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer44-5",
+      "resident": "older44",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "answer44-6",
+      "resident": "older44",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer44-7",
+      "resident": "older44",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer44-9",
+      "resident": "older44",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer44-10",
+      "resident": "older44",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "answer45-5",
+      "resident": "older45",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer45-6",
+      "resident": "older45",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer45-7",
+      "resident": "older45",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer45-8",
+      "resident": "older45",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "answer46-6",
+      "resident": "older46",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer46-7",
+      "resident": "older46",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer46-8",
+      "resident": "older46",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer46-9",
+      "resident": "older46",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer46-10",
+      "resident": "older46",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer47-5",
+      "resident": "older47",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer47-6",
+      "resident": "older47",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer47-7",
+      "resident": "older47",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer47-9",
+      "resident": "older47",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer47-10",
+      "resident": "older47",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer48-5",
+      "resident": "older48",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer48-6",
+      "resident": "older48",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer48-7",
+      "resident": "older48",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer48-8",
+      "resident": "older48",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer48-9",
+      "resident": "older48",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        5,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer48-10",
+      "resident": "older48",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        2,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "answer49-5",
+      "resident": "older49",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer49-6",
+      "resident": "older49",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer49-7",
+      "resident": "older49",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer49-8",
+      "resident": "older49",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        null
+      ]
+    },
+    {
+      "id": "answer49-9",
+      "resident": "older49",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer49-10",
+      "resident": "older49",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        5,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer50-5",
+      "resident": "older50",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer50-7",
+      "resident": "older50",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer51-5",
+      "resident": "older51",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "answer51-6",
+      "resident": "older51",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer51-7",
+      "resident": "older51",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer51-8",
+      "resident": "older51",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer51-9",
+      "resident": "older51",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer51-10",
+      "resident": "older51",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer52-5",
+      "resident": "older52",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "answer52-6",
+      "resident": "older52",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer52-9",
+      "resident": "older52",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        5,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "answer52-10",
+      "resident": "older52",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        5,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer53-5",
+      "resident": "older53",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer53-6",
+      "resident": "older53",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer53-7",
+      "resident": "older53",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer53-8",
+      "resident": "older53",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer53-9",
+      "resident": "older53",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer53-10",
+      "resident": "older53",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer54-5",
+      "resident": "older54",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer54-6",
+      "resident": "older54",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer54-8",
+      "resident": "older54",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer54-9",
+      "resident": "older54",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer54-10",
+      "resident": "older54",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer55-5",
+      "resident": "older55",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer55-7",
+      "resident": "older55",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer55-8",
+      "resident": "older55",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer56-5",
+      "resident": "older56",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        3,
+        null
+      ]
+    },
+    {
+      "id": "answer56-6",
+      "resident": "older56",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer56-7",
+      "resident": "older56",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        null
+      ]
+    },
+    {
+      "id": "answer56-8",
+      "resident": "older56",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        2,
+        1,
+        null
+      ]
+    },
+    {
+      "id": "answer56-9",
+      "resident": "older56",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        4,
+        3,
+        null
+      ]
+    },
+    {
+      "id": "answer56-10",
+      "resident": "older56",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        1,
+        5,
+        null
+      ]
+    },
+    {
+      "id": "answer57-5",
+      "resident": "older57",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "answer57-6",
+      "resident": "older57",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer57-7",
+      "resident": "older57",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer57-9",
+      "resident": "older57",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer57-10",
+      "resident": "older57",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer58-5",
+      "resident": "older58",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer58-6",
+      "resident": "older58",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "answer58-8",
+      "resident": "older58",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer58-9",
+      "resident": "older58",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "answer58-10",
+      "resident": "older58",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer59-5",
+      "resident": "older59",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer59-6",
+      "resident": "older59",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer59-7",
+      "resident": "older59",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer59-8",
+      "resident": "older59",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer59-10",
+      "resident": "older59",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer60-5",
+      "resident": "older60",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer60-6",
+      "resident": "older60",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer60-8",
+      "resident": "older60",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer61-5",
+      "resident": "older61",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "answer61-7",
+      "resident": "older61",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer61-8",
+      "resident": "older61",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer61-9",
+      "resident": "older61",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer61-10",
+      "resident": "older61",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer62-5",
+      "resident": "older62",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "answer62-6",
+      "resident": "older62",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer62-7",
+      "resident": "older62",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer62-8",
+      "resident": "older62",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer62-9",
+      "resident": "older62",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer62-10",
+      "resident": "older62",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer63-5",
+      "resident": "older63",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer63-6",
+      "resident": "older63",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer63-9",
+      "resident": "older63",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer63-10",
+      "resident": "older63",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer64-5",
+      "resident": "older64",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer64-7",
+      "resident": "older64",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "answer64-8",
+      "resident": "older64",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        3,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "answer64-9",
+      "resident": "older64",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "answer64-10",
+      "resident": "older64",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer65-5",
+      "resident": "older65",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer65-6",
+      "resident": "older65",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "answer65-7",
+      "resident": "older65",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "answer65-8",
+      "resident": "older65",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer66-5",
+      "resident": "older66",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer66-6",
+      "resident": "older66",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer66-7",
+      "resident": "older66",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer66-8",
+      "resident": "older66",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "answer66-9",
+      "resident": "older66",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer66-10",
+      "resident": "older66",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        4,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer67-5",
+      "resident": "older67",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer67-6",
+      "resident": "older67",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "answer67-7",
+      "resident": "older67",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer67-8",
+      "resident": "older67",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "id": "answer67-9",
+      "resident": "older67",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer67-10",
+      "resident": "older67",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "answer68-5",
+      "resident": "older68",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer68-6",
+      "resident": "older68",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "answer68-7",
+      "resident": "older68",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer68-8",
+      "resident": "older68",
+      "date": "2026-08-01",
+      "respondent": "family",
+      "items": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer68-9",
+      "resident": "older68",
+      "date": "2026-09-01",
+      "respondent": "family",
+      "items": [
+        5,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "answer68-10",
+      "resident": "older68",
+      "date": "2026-10-01",
+      "respondent": "family",
+      "items": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "answer69-5",
+      "resident": "older69",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "answer69-6",
+      "resident": "older69",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "answer69-7",
+      "resident": "older69",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "answer69-8",
+      "resident": "older69",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "answer69-9",
+      "resident": "older69",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer69-10",
+      "resident": "older69",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "answer70-5",
+      "resident": "older70",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        3,
+        5,
+        null
+      ]
+    },
+    {
+      "id": "answer70-6",
+      "resident": "older70",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        5,
+        5,
+        null
+      ]
+    },
+    {
+      "id": "answer70-7",
+      "resident": "older70",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        5,
+        2,
+        null
+      ]
+    },
+    {
+      "id": "answer71-5",
+      "resident": "older71",
+      "date": "2026-05-01",
+      "respondent": "self",
+      "items": [
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "answer71-6",
+      "resident": "older71",
+      "date": "2026-06-01",
+      "respondent": "self",
+      "items": [
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "answer71-7",
+      "resident": "older71",
+      "date": "2026-07-01",
+      "respondent": "self",
+      "items": [
+        1,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "answer71-8",
+      "resident": "older71",
+      "date": "2026-08-01",
+      "respondent": "self",
+      "items": [
+        5,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "answer71-9",
+      "resident": "older71",
+      "date": "2026-09-01",
+      "respondent": "self",
+      "items": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "answer71-10",
+      "resident": "older71",
+      "date": "2026-10-01",
+      "respondent": "self",
+      "items": [
+        3,
+        2,
+        2
+      ]
+    }
+  ],
+  "absences": [
+    {
+      "id": "absence0",
+      "resident": "older0",
+      "start": "2026-08-01",
+      "end": "2026-09-20",
+      "reason": "hospital"
+    },
+    {
+      "id": "absence9",
+      "resident": "older9",
+      "start": "2026-08-01",
+      "end": "2026-09-20",
+      "reason": "hospital"
+    },
+    {
+      "id": "absence18",
+      "resident": "older18",
+      "start": "2026-08-01",
+      "end": "2026-09-20",
+      "reason": "hospital"
+    },
+    {
+      "id": "absence27",
+      "resident": "older27",
+      "start": "2026-08-01",
+      "end": "2026-09-20",
+      "reason": "hospital"
+    },
+    {
+      "id": "absence36",
+      "resident": "older36",
+      "start": "2026-08-01",
+      "end": "2026-09-20",
+      "reason": "hospital"
+    },
+    {
+      "id": "absence45",
+      "resident": "older45",
+      "start": "2026-08-01",
+      "end": "2026-09-20",
+      "reason": "hospital"
+    },
+    {
+      "id": "absence54",
+      "resident": "older54",
+      "start": "2026-08-01",
+      "end": "2026-09-20",
+      "reason": "hospital"
+    },
+    {
+      "id": "absence63",
+      "resident": "older63",
+      "start": "2026-08-01",
+      "end": "2026-09-20",
+      "reason": "hospital"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "contact0",
+      "resident": "older0",
+      "date": "2026-10-20",
+      "result": "refused"
+    },
+    {
+      "id": "contact13",
+      "resident": "older13",
+      "date": "2026-10-20",
+      "result": "refused"
+    },
+    {
+      "id": "contact26",
+      "resident": "older26",
+      "date": "2026-10-20",
+      "result": "refused"
+    },
+    {
+      "id": "contact39",
+      "resident": "older39",
+      "date": "2026-10-20",
+      "result": "refused"
+    },
+    {
+      "id": "contact52",
+      "resident": "older52",
+      "date": "2026-10-20",
+      "result": "refused"
+    },
+    {
+      "id": "contact65",
+      "resident": "older65",
+      "date": "2026-10-20",
+      "result": "refused"
+    }
+  ]
+}

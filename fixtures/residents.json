@@ -1,0 +1,38 @@
+[
+  {
+    "id": "r1",
+    "site": "east",
+    "entered": "2026-01-01",
+    "left": null,
+    "consent": true,
+    "contact": "token1",
+    "contact_gap_days": 7
+  },
+  {
+    "id": "r2",
+    "site": "west",
+    "entered": "2026-01-01",
+    "left": null,
+    "consent": true,
+    "contact": "token2",
+    "contact_gap_days": 7
+  },
+  {
+    "id": "r3",
+    "site": "east",
+    "entered": "2026-01-01",
+    "left": "2026-10-15",
+    "consent": true,
+    "contact": "token3",
+    "contact_gap_days": 7
+  },
+  {
+    "id": "r4",
+    "site": "east",
+    "entered": "2026-09-01",
+    "left": null,
+    "consent": false,
+    "contact": null,
+    "contact_gap_days": 7
+  }
+]

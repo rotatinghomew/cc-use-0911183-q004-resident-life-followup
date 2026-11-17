@@ -1,0 +1,6 @@
+[project]
+name = "resident-life-followup"
+version = "0.1.0"
+description = "离院与代答交织下的生活质量随访及补访选择的业务数据服务"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.2.6", "scipy==1.15.3"]

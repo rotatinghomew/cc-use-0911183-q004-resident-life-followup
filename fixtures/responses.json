@@ -1,0 +1,35 @@
+[
+  {
+    "id": "q1",
+    "resident": "r1",
+    "date": "2026-09-01",
+    "respondent": "self",
+    "items": [
+      3,
+      4,
+      null
+    ]
+  },
+  {
+    "id": "q2",
+    "resident": "r1",
+    "date": "2026-10-01",
+    "respondent": "family",
+    "items": [
+      4,
+      null,
+      5
+    ]
+  },
+  {
+    "id": "q3",
+    "resident": "r3",
+    "date": "2026-09-01",
+    "respondent": "assisted",
+    "items": [
+      2,
+      3,
+      2
+    ]
+  }
+]
