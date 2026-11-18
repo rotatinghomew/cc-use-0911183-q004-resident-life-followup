@@ -1,7 +1,7 @@
 from .eligibility import contactable
 
 
-def assign_contact(store, resident, interviewer, day):
+def assign_contact(store, resident, interviewer, day, reason='日常随访', plan=None):
     allowed = {row['id']: row for row in contactable(store, day)}
     person = store.get('interviewers', interviewer)
     if resident not in allowed or allowed[resident]['site'] not in person['sites']:
@@ -10,18 +10,24 @@ def assign_contact(store, resident, interviewer, day):
         if job['resident'] == resident and job['status'] == 'open':
             raise ValueError('已有未结束的联系安排')
     key = resident + ':' + day
-    value = {'id': key, 'resident': resident, 'interviewer': interviewer, 'date': day, 'status': 'open', 'reason': '日常随访'}
+    value = {'id': key, 'resident': resident, 'interviewer': interviewer, 'date': day, 'status': 'open', 'reason': reason, 'contact': allowed[resident]['contact']}
+    if plan is not None:
+        value['plan'] = plan
     store.put('jobs', value, expected=0)
     return value
 
 
 def finish_contact(store, job_id, result):
-    if result not in ['responded', 'unreachable', 'refused']:
+    if result not in ['responded', 'unreachable', 'refused', 'invalid']:
         raise ValueError('联系结果不合法')
     row = store.get('jobs', job_id)
     if row['status'] != 'open':
         raise ValueError('联系安排已结束')
-    value = {'id': job_id, 'resident': row['resident'], 'date': row['date'], 'result': result}
+    if 'contact' in row:
+        token = row['contact']
+    else:
+        token = store.get('residents', row['resident'])['contact']
+    value = {'id': job_id, 'resident': row['resident'], 'date': row['date'], 'result': result, 'contact': token}
     with store.transaction():
         store.connection.execute('INSERT INTO records VALUES(?,?,?,1)', ('contacts', job_id, __import__('json').dumps(value)))
         row['status'] = result

@@ -22,6 +22,7 @@
     "site": "east",
     "entered": "2026-01-01",
     "left": "2026-10-15",
+    "left_reason": "transfer",
     "consent": true,
     "contact": "token3",
     "contact_gap_days": 7
@@ -33,6 +34,16 @@
     "left": null,
     "consent": false,
     "contact": null,
+    "contact_gap_days": 7
+  },
+  {
+    "id": "r5",
+    "site": "east",
+    "entered": "2026-01-01",
+    "left": "2026-09-10",
+    "left_reason": "deceased",
+    "consent": true,
+    "contact": "token5",
     "contact_gap_days": 7
   }
 ]

@@ -95,3 +95,44 @@ class HttpTests(unittest.TestCase):
             urllib.request.urlopen(request)
         self.assertEqual(caught.exception.code, 400)
         self.assertEqual(self.application.demo(), before)
+
+    def post(self, path, value):
+        request = urllib.request.Request(self.base + path, data=json.dumps(value).encode('utf-8'), headers={'Content-Type': 'application/json'})
+        return urllib.request.urlopen(request)
+
+    def test_longitudinal_endpoint(self):
+        with urllib.request.urlopen(self.base + '/api/longitudinal?month=2026-10&window=2') as response:
+            body = json.load(response)
+        self.assertEqual([row['month'] for row in body['months']], ['2026-09', '2026-10'])
+        self.assertTrue(body['change']['available'])
+        self.assertIn('sensitivity', body['change'])
+
+    def test_longitudinal_requires_valid_month(self):
+        with self.assertRaises(urllib.error.HTTPError) as caught:
+            urllib.request.urlopen(self.base + '/api/longitudinal')
+        self.assertEqual(caught.exception.code, 400)
+        with self.assertRaises(urllib.error.HTTPError) as caught:
+            urllib.request.urlopen(self.base + '/api/longitudinal?month=2026-13')
+        self.assertEqual(caught.exception.code, 400)
+
+    def test_plan_endpoint_and_frozen_reasons(self):
+        with self.post('/api/plan', {'date': '2026-11-10', 'slots': 1}) as response:
+            plan = json.load(response)
+        self.assertEqual(len(plan['entries']), 1)
+        resident = plan['entries'][0]['resident']
+        self.assertTrue(plan['entries'][0]['reasons'])
+        with urllib.request.urlopen(self.base + '/api/plans') as response:
+            plans = json.load(response)['plans']
+        self.assertEqual(len(plans), 1)
+        with self.post('/api/contact-result', {'job': resident + ':2026-11-10', 'result': 'invalid'}) as response:
+            self.assertEqual(json.load(response)['status'], 'invalid')
+        with urllib.request.urlopen(self.base + '/api/plans') as response:
+            self.assertEqual(json.load(response)['plans'], plans)
+
+    def test_plan_validation(self):
+        with self.assertRaises(urllib.error.HTTPError) as caught:
+            self.post('/api/plan', {'date': '2026-11-10', 'slots': 0})
+        self.assertEqual(caught.exception.code, 400)
+        with self.assertRaises(urllib.error.HTTPError) as caught:
+            self.post('/api/plan', {'date': '2026-11-10', 'slots': 2, 'site': 'nowhere'})
+        self.assertEqual(caught.exception.code, 400)
